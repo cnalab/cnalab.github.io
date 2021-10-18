@@ -28,7 +28,7 @@ Please note, that all the resources mentioned here are publicly available resour
 </ul>  
 <hr>
 
-## By Technology
+## By Technologies
 
 <details>
 <summary>&#x25B6; Hybrid Multi-Cloud</summary>
