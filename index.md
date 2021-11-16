@@ -12,19 +12,13 @@ Happy Learning!
 
 Please note, that all the resources mentioned here are publicly available resources.
 
-## TopReads of the Months and its test
-<ul>
-  <li><a href="https://www.ibm.com/cloud/learn/microservices">What are Microservices - IBM</a></li>
-  <li><a href="https://aws.amazon.com/microservices">What are Microservices - AWS</a></li>
-  <li><a href="https://www.redhat.com/en/topics/microservices">Understanding Microservices - Redhat</a></li>
-</ul>  
-<hr>
 
-## Curated Github Repos
+## Curated Repos
 <ul>
-  <li><a href="https://www.ibm.com/cloud/learn/microservices">What are Microservices - IBM</a></li>
-  <li><a href="https://aws.amazon.com/microservices">What are Microservices - AWS</a></li>
-  <li><a href="https://www.redhat.com/en/topics/microservices">Understanding Microservices - Redhat</a></li>
+  <li><a href="https://github.com/learnk8s/kubernetes-production-best-practices">Kubernetes production bestpractices</a></li>
+  <li><a href="https://github.com/tomhuang12/awesome-k8s-resources">Awesome kubernetes resources</a></li>
+  <li><a href="https://github.com/Vinum-Security/kubernetes-security-checklist">Kubernetes security checklist</a></li>
+  <li><a href="https://github.com/bregman-arie/howtheydevops">How they devops</a></li>
 </ul>  
 <hr>
 
