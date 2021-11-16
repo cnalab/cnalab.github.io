@@ -1,10 +1,10 @@
 <br>
 
 ## Introduction
-**Cloud native goodreads** is a curated list of publicly available resources on how companies around the world should practice **DevOps** - CI/CD
+**Cloud native goodreads** is a curated list of publicly available resources on how companies around the world can make use of **Cloud Native**
 
 
-There are many ways to practice DevOps. Fortunately, many companies are willing to share how they do it. I believe there is much to learn from this documented use cases and published resources. The content you’ll find in this repository is a list of such resources.
+There are many ways to approach cloud native. Fortunately, many companies are willing to share how they do it. I believe there is much to learn from this documented use cases and published resources. The content you’ll find in this repository is a list of such resources.
 
 The reosources are indexed by companies, technologies, years and DevOps related topics
 
