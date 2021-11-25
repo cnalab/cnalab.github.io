@@ -19,6 +19,7 @@ Please note, that all the resources mentioned here are publicly available resour
   <li><a href="https://github.com/tomhuang12/awesome-k8s-resources">Awesome kubernetes resources</a></li>
   <li><a href="https://github.com/Vinum-Security/kubernetes-security-checklist">Kubernetes security checklist</a></li>
   <li><a href="https://github.com/bregman-arie/howtheydevops">How they devops</a></li>
+  <li><a href="https://github.com/diegolnasc/kubernetes-best-practices">kubernetes-best-practices</a></li>
 </ul>  
 <hr>
 
